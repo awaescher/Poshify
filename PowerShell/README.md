@@ -4,10 +4,10 @@
 
 #### Installation
  - Open PowerShell, type `notepad $PROFILE` and hit enter.
- - Add the functions from the ps1-file of this repository, save and close notepad.
+ - Add the desired functions [from the ps1-file](./Microsoft.PowerShell_profile.ps1) of this repository, save and close notepad.
  - Restart PowerShell.
 
-### [Cake Build] Invokce-Cake: `cake`
+### [Cake Build] Invoke-Cake: `cake`
 Finds a Cake script like `build.ps1` and executes a given task. 
 
 ```
