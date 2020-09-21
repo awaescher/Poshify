@@ -2,7 +2,7 @@
 
 ## Functions and aliases for PowerShell
 
-See https://github.com/awaescher/Poshify/PowerShell
+See [PowerShell](../PowerShell)
 
 ## Settings
 
