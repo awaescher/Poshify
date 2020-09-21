@@ -1,7 +1,10 @@
 # Windows Terminal
 
-## Settings
+## Functions and aliases for PowerShell
 
+See https://github.com/awaescher/Poshify/PowerShell
+
+## Settings
 
 ```
 
@@ -138,8 +141,3 @@
 }
 
 ```
-
-## Aliases for PowerShell
-
-To add aliases like `pu` for `Push Upstream` or `br` for `Browse Remote` (open a webbrowser and navigate to the remote branch), see ...
-- https://github.com/awaescher/pu-br
